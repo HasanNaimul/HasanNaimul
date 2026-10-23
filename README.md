@@ -2,7 +2,7 @@
 
 **AI consulting and implementation · Automation · Python and data analytics · London**
 
-I build practical AI and automation solutions through Sparta Global's Forward Deployed Engineering academy, where my training role is **AI Innovation Consultant (Academy)**. I hold a **First-Class BSc in Computer Science** from Brunel University London and have commercial technical support experience with Accenture and TechEye.
+I build practical AI and automation solutions through Sparta Global's Forward Deployed Engineering academy, where my training role is **AI Innovation Consultant **. I hold a **First-Class BSc in Computer Science** from Brunel University London and have commercial technical support experience with Accenture and TechEye.
 
 I enjoy turning business requirements into useful, tested applications and explaining technical decisions clearly. I'm interested in junior and associate opportunities in **AI consulting, AI implementation, automation, AI solutions and technology consulting** in London.
 
